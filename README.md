@@ -11,6 +11,5 @@
         <h2>Order Process</h2>
         <p>Upon successful payment, users receive email notifications and can track the estimated arrival time on the order page.</p>
 <hr>
-
         <h2>Sell Your Furniture</h2>
-        <p>Users have the option to sell secondhand furniture to the company by submitting product images. Administrators assess and decide on purchases based on the provided photos.</p>
+Users have the option to sell secondhand furniture to the company by submitting product images. Administrators assess and decide on purchases based on the provided photos.

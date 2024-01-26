@@ -1,5 +1,6 @@
 # Used Furniture E-commerce Portal
 
+
 Welcome to our used furniture e-commerce portal! This platform is designed for a startup that acquires secondhand furniture, refurbishes it, and sells it for a profit. Users can also sell their own furniture to the company through a submission process.
 
 ## Table of Contents

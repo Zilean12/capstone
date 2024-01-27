@@ -44,18 +44,6 @@
                 </div>
             </div>
 
-            <!-- Account Type -->
-            <div class="account-type-details">
-                <div class="input-box">
-                    <span class="details">Account Type</span>
-                    <!-- Individual -->
-                    <input type="radio" id="individual" name="accountType" value="individual" checked>
-                    <label for="individual">Individual</label>
-                    <!-- Business -->
-                    <input type="radio" id="business" name="accountType" value="business">
-                    <label for="business">Business</label>
-                </div>
-            </div>
 
             <!-- Gender -->
             <div class="gender-details">
@@ -72,12 +60,20 @@
                     <label for="not-specified">Prefer not to say</label>
                 </div>
             </div>
+            <br>
+            <!-- Terms and Conditions -->
+            <div class="input-box checkbox">
+                <input type="checkbox" id="terms" required>
+                <label for="terms">
+                    I agree with the terms & conditions
+                </label>
+            </div>
 
             <div class="button">
                 <input type="submit" value="Register">
             </div>
             <div class="login-link">
-                <p>Already have an account? <a href="Design(login)\login.html">Login</a></p>
+                <p>Already have an account? <a href="/Login/login.html">Login</a></p>
             </div>
         </form>
     </div>

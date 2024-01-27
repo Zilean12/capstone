@@ -22,9 +22,8 @@ body {
     width: 440px;
     height: 380px;
     padding: 30px;
-    background: #fff; /* Background color for the card */
-    border-radius: 10px;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Adding a subtle box shadow */
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); 
 }
 
 /* Styling for heading level 2 */

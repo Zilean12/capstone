@@ -18,9 +18,10 @@ body {
 .container {
     max-width: 700px;
     width: 100%;
-    /* background: #fff;  */
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);    
     padding: 25px 30px;
-    border-radius: 5px;
+    border-radius: 15px;
 }
 
 /* Styling for the title within the container */
@@ -136,27 +137,3 @@ form .button input:hover {
     text-decoration: none;
 }
 
-/* Styling for the account type details section */
-.account-type-details {
-    margin-bottom: 20px;
-}
-
-.account-type-details .input-box {
-    width: 100%;
-}
-
-.account-type-details .details {
-    display: block;
-    font-weight: bold;
-    font-size: 20px;
-    margin-bottom: 4px;
-}
-
-.account-type-details input[type="radio"] {
-    align-items: center;
-    width: 25px;
-}
-
-.account-type-details label {
-    margin-right: 15px;
-}
